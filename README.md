@@ -60,6 +60,13 @@ end-to-end. I care about engineering quality and intentional design:
   <img src="assets/what-i-bring.svg" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFEFF,20:CFFAFE,40:99F6E4,60:5EEAD4,80:2DD4BF,100:0D9488&height=92&section=header&text=%F0%9F%9A%80%20FOCUS%20%26%20LEARNING%20%F0%9F%9A%80&fontSize=26&fontColor=134E4A&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<p align="center">
+  <img src="assets/focus.svg" />
+  <img src="assets/learning.svg" />
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" />
 </p>

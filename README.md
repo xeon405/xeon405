@@ -50,6 +50,16 @@ end-to-end. I care about engineering quality and intentional design:
   <img src="assets/values.svg" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2FF,20:E0E7FF,40:C7D2FE,60:A5B4FC,80:818CF8,100:4338CA&height=92&section=header&text=%F0%9F%9A%80%20ROADMAP%20%26%20VISION%20%F0%9F%9A%80&fontSize=26&fontColor=1E1B4B&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<p align="center">
+  <img src="assets/roadmap.svg" alt="Roadmap and vision" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/what-i-bring.svg" />
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" />
 </p>
@@ -116,6 +126,15 @@ end-to-end. I care about engineering quality and intentional design:
 
 I'm always interested in great products, interesting problems, and strong teams.
 Open to **full-time** and **freelance** opportunities.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--time-24292f?style=flat-square&logo=checkmarx&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/Freelance-24292f?style=flat-square&logo=checkmarx&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/Remote-24292f?style=flat-square&logo=checkmarx&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/Contract-24292f?style=flat-square&logo=checkmarx&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/Junior_full--stack-24292f?style=flat-square&logo=checkmarx&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/AI_applications-24292f?style=flat-square&logo=checkmarx&logoColor=3FB950" />
+</p>
 
 <p align="center">
   <a href="https://github.com/xeon405">

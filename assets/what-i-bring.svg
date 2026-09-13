@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <rect width="495" height="195" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <circle cx="26" cy="28" r="4" fill="#f59e0b"/>
+  <text x="40" y="33" font-family="'Fira Code', monospace" font-size="13" fill="#e6edf3" letter-spacing="2">WHAT I BRING</text>
+
+  <text x="26" y="68" font-family="'Fira Code', monospace" font-size="13" fill="#f59e0b">OWNERSHIP</text>
+  <text x="160" y="68" font-family="'Fira Code', monospace" font-size="13" fill="#e6edf3">PRODUCT -&gt; PRODUCTION</text>
+
+  <text x="26" y="94" font-family="'Fira Code', monospace" font-size="13" fill="#f59e0b">VELOCITY</text>
+  <text x="160" y="94" font-family="'Fira Code', monospace" font-size="13" fill="#e6edf3">PRAGMATIC, TYPED, TESTED</text>
+
+  <text x="26" y="120" font-family="'Fira Code', monospace" font-size="13" fill="#f59e0b">QUALITY</text>
+  <text x="160" y="120" font-family="'Fira Code', monospace" font-size="13" fill="#e6edf3">CLEAN &amp; MAINTAINABLE</text>
+
+  <text x="26" y="146" font-family="'Fira Code', monospace" font-size="13" fill="#f59e0b">GROWTH</text>
+  <text x="160" y="146" font-family="'Fira Code', monospace" font-size="13" fill="#e6edf3">CURIOUS, LEARNING DAILY</text>
+
+  <text x="26" y="177" font-family="'Fira Code', monospace" font-size="12" fill="#484f58">$ value</text>
+  <text x="300" y="177" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">remote-friendly</text>
+</svg>

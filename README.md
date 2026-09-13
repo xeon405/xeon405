@@ -18,6 +18,13 @@ deployments, and CI/CD. I write clean, tested, maintainable code and take owners
 - **Quality by default** — unit to end-to-end testing, linting, performance, accessibility
 - **AI-assisted products** — LLM integrations, retrieval, and evaluation patterns
 
+## Day-One Value
+
+- Productive in a new codebase within the first week
+- Comfortable owning features end-to-end, solo or inside a team
+- Brings production experience across B2B and consumer products
+- Practices disciplined, evidence-based engineering — not heroics
+
 ## Technical Skills
 
 **Languages** &nbsp; TypeScript · Python · JavaScript · Go · SQL · C · Bash

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="312" viewBox="0 0 900 312">
+  <rect width="900" height="312" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <circle cx="26" cy="40" r="4" fill="#58a6ff"/>
+  <text x="40" y="45" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3" letter-spacing="3">EXPERTISE</text>
+  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">self-assessed</text>
+
+  <line x1="24" y1="66" x2="876" y2="66" stroke="#21262d"/>
+
+  <rect x="300" y="77" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="77" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="77" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="77" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="77" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <text x="24" y="88" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">TypeScript</text>
+  <text x="876" y="88" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">advanced</text>
+
+  <rect x="300" y="107" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="107" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="107" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="107" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="107" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <text x="24" y="118" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">Python</text>
+  <text x="876" y="118" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">advanced</text>
+
+  <rect x="300" y="137" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="137" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="137" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="137" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="137" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <text x="24" y="148" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">React / Next.js</text>
+  <text x="876" y="148" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">advanced</text>
+
+  <rect x="300" y="167" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="167" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="167" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="167" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="167" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <text x="24" y="178" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">Backend &amp; APIs</text>
+  <text x="876" y="178" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">advanced</text>
+
+  <rect x="300" y="197" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="197" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="197" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="197" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="197" width="14" height="14" rx="3" fill="#21262d"/>
+  <text x="24" y="208" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">SQL &amp; Databases</text>
+  <text x="876" y="208" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">proficient</text>
+
+  <rect x="300" y="227" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="227" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="227" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="227" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="227" width="14" height="14" rx="3" fill="#21262d"/>
+  <text x="24" y="238" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">Docker &amp; CI/CD</text>
+  <text x="876" y="238" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">proficient</text>
+
+  <rect x="300" y="257" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="257" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="257" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="257" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="380" y="257" width="14" height="14" rx="3" fill="#21262d"/>
+  <text x="24" y="268" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">Cloud &amp; DevOps</text>
+  <text x="876" y="268" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">proficient</text>
+
+  <rect x="300" y="287" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="320" y="287" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="340" y="287" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="360" y="287" width="14" height="14" rx="3" fill="#21262d"/>
+  <rect x="380" y="287" width="14" height="14" rx="3" fill="#21262d"/>
+  <text x="24" y="298" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3">AI / ML</text>
+  <text x="876" y="298" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">leveling up</text>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+xeon;Full-Stack+Developer;TypeScript+%26+Python;Building+useful+AI-powered+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+xeon;Full-Stack+Developer;TypeScript+%26+Python;Innovation+meets+craftsmanship" />
 </p>
 
 ```ts
@@ -12,24 +12,10 @@ const xeon = {
     backend: ["Node.js", "FastAPI", "PostgreSQL"],
     devops: ["Docker", "Vercel", "GitHub Actions"],
   },
-  focus: "Building AI-powered products that people actually use",
+  values: ["Clean code", "Continuous learning", "Attention to detail"],
   reachable: "https://github.com/xeon405",
 };
 ```
-
----
-
-## 🚀 Featured Project
-
-### 🇬🇧 IELTS Master
-
-An interactive IELTS preparation platform — practice tests, scoring, and progress tracking with a modern, fast UI.
-
-- **Stack:** TypeScript · Python · CSS · Docker
-- **Live:** [ielts-master-2026.vercel.app](https://ielts-master-2026.vercel.app)
-- **Repo:** [xeon405/IELTS](https://github.com/xeon405/IELTS)
-
-> More projects in progress — this is just the start.
 
 ---
 
@@ -37,7 +23,6 @@ An interactive IELTS preparation platform — practice tests, scoring, and progr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xeon405&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeon405&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---

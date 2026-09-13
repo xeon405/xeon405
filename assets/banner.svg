@@ -13,7 +13,7 @@
   <rect width="900" height="220" fill="#0d1117"/>
   <rect width="900" height="220" fill="url(#glow)"/>
 
-  <text x="40" y="45" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">~/xeon</text>
+  <text x="40" y="45" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">REMOTE-FIRST</text>
   <circle cx="806" cy="39" r="4" fill="#3fb950"/>
   <text x="820" y="45" font-family="'Fira Code', monospace" font-size="13" fill="#3fb950">open to opportunities</text>
 

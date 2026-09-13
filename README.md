@@ -8,6 +8,8 @@ Full-stack developer specializing in **TypeScript, Python, and PostgreSQL**. I b
 dependable products end-to-end — from API design and typed frontends to database modeling,
 deployments, and CI/CD. I write clean, tested, maintainable code and take ownership of outcomes.
 
+*Selected work and source code available on request.*
+
 ## Core Competencies
 
 - **Full-stack engineering** — frontend, backend, and data layers

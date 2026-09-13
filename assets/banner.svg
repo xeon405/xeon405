@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="62%">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="#0d1117"/>
+  <rect width="900" height="220" fill="url(#glow)"/>
+
+  <text x="40" y="45" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">~/xeon</text>
+  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">v2.0.0</text>
+
+  <text x="450" y="112" text-anchor="middle" font-family="'Fira Code', monospace" font-size="58" font-weight="700" fill="url(#title)" letter-spacing="6">XEON</text>
+  <text x="450" y="152" text-anchor="middle" font-family="'Fira Code', monospace" font-size="15" fill="#8b949e" letter-spacing="2">FULL-STACK DEVELOPER · TYPESCRIPT · PYTHON</text>
+
+  <line x1="40" y1="188" x2="860" y2="188" stroke="#30363d"/>
+  <circle cx="450" cy="188" r="3.5" fill="#58a6ff"/>
+</svg>

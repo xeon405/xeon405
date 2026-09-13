@@ -16,6 +16,6 @@
   <text x="26" y="146" font-family="'Fira Code', monospace" font-size="13" fill="#58a6ff">MOTTO</text>
   <text x="104" y="146" font-family="'Fira Code', monospace" font-size="13" fill="#e6edf3">BUILD QUIETLY, SHIP WELL</text>
 
-  <text x="26" y="177" font-family="'Fira Code', monospace" font-size="12" fill="#484f58">$ whoami</text>
-  <text x="300" y="177" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">github.com/xeon405</text>
+  <text x="26" y="177" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">LOCATION: REMOTE</text>
+  <text x="300" y="177" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">xeon405</text>
 </svg>

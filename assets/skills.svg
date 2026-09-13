@@ -3,7 +3,7 @@
 
   <circle cx="26" cy="40" r="4" fill="#58a6ff"/>
   <text x="40" y="45" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3" letter-spacing="3">EXPERTISE</text>
-  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">self-assessed</text>
+  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">capability matrix</text>
 
   <line x1="24" y1="66" x2="876" y2="66" stroke="#21262d"/>
 

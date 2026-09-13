@@ -38,7 +38,7 @@ people skip: type safety, testing, performance, and accessibility.
 | --- | --- |
 | Docker · Kubernetes · Nginx · GitHub Actions · Vercel · Netlify · AWS · Azure · Cloudflare · Linux | Git · GitHub · Markdown · VS Code · Postman · Figma · Notion · Slack · Jira |
 
-> Detailed badge view below.
+> Core stack summary above; expanded badge view below.
 
 <div align="center">
 
@@ -90,8 +90,8 @@ people skip: type safety, testing, performance, and accessibility.
 
 ## 08 · Contact
 
-I'm always interested in strong teams, interesting problems, and ambitious products. Open to
-**full-time** and **freelance** opportunities.
+I'm always interested in strong teams, interesting problems, and ambitious products. If you're
+building something solid, let's talk — I'm open to **full-time** and **freelance** roles.
 
 <div align="center">
   <a href="https://github.com/xeon405">

@@ -24,6 +24,6 @@
   <text x="615" y="152" font-family="'Fira Code', monospace" font-size="12.5" fill="#e6edf3">LEAD  PRACTICAL, PRAGMATIC CODE</text>
   <text x="615" y="176" font-family="'Fira Code', monospace" font-size="12.5" fill="#e6edf3">SHARE WHAT I LEARN ALONG THE WAY</text>
 
-  <text x="24" y="226" font-family="'Fira Code', monospace" font-size="12" fill="#484f58">$ roadmap --focus</text>
+  <text x="24" y="226" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">MILESTONES</text>
   <text x="876" y="226" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">build -&gt; measure -&gt; iterate</text>
 </svg>

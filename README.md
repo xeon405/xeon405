@@ -30,6 +30,29 @@ deployments, and CI/CD. I write clean, tested, maintainable code and take owners
 
 **DevOps** &nbsp; Docker · Kubernetes · Nginx · GitHub Actions · AWS · Vercel · Linux
 
+## How I Work
+
+- **Own the full cycle** — from problem definition and design to deployment and monitoring
+- **Communicate in plain language** — document decisions, tradeoffs, and open questions
+- **Ship small, measured increments** — then iterate on real feedback
+- **Review as a student, not a judge** — mentor, share knowledge, and keep everyone unblocked
+
+## What I'm Looking For
+
+I'm working toward senior-level engineering by shipping real products with strong teams:
+
+- A team that values **quality, mentorship, and honest feedback**
+- Opportunities to **lead features and own architecture decisions**
+- Product work with **measurable impact** — users, performance, and revenue
+- Remote-first culture with clear ownership and trust
+
+## Currently Learning
+
+- System design and scaling patterns
+- SQL modeling, indexing, and query optimization
+- LLM application engineering — retrieval, agents, and evaluation
+- Clear, concise technical writing and documentation
+
 ## GitHub Activity
 
 <p align="center">
@@ -38,7 +61,7 @@ deployments, and CI/CD. I write clean, tested, maintainable code and take owners
 
 ## Contact
 
-Open to **full-time** and **freelance** opportunities — remote-first.
+Open to **full-time** and **freelance** opportunities — remote-first. Replies within 24 hours.
 
 <p align="center">
   <a href="https://github.com/xeon405">

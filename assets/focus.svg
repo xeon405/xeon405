@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="212" viewBox="0 0 900 212">
+  <rect width="900" height="212" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <circle cx="26" cy="40" r="4" fill="#a5b4fc"/>
+  <text x="40" y="45" font-family="'Fira Code', monospace" font-size="15" fill="#e6edf3" letter-spacing="3">FOCUS AREAS</text>
+  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">where I concentrate effort</text>
+
+  <line x1="24" y1="66" x2="876" y2="66" stroke="#21262d"/>
+  <line x1="450" y1="82" x2="450" y2="168" stroke="#21262d"/>
+
+  <text x="24" y="96" font-family="'Fira Code', monospace" font-size="14" fill="#a5b4fc">API DESIGN</text>
+  <text x="24" y="120" font-family="'Fira Code', monospace" font-size="12.5" fill="#e6edf3">TYPED, DOCUMENTED, PRAGMATIC</text>
+
+  <text x="24" y="146" font-family="'Fira Code', monospace" font-size="14" fill="#a5b4fc">PERFORMANCE</text>
+  <text x="24" y="170" font-family="'Fira Code', monospace" font-size="12.5" fill="#e6edf3">FAST UIS, INDEXED QUERIES</text>
+
+  <text x="465" y="96" font-family="'Fira Code', monospace" font-size="14" fill="#a5b4fc">ACCESSIBILITY</text>
+  <text x="465" y="120" font-family="'Fira Code', monospace" font-size="12.5" fill="#e6edf3">INCLUSIVE BY DEFAULT</text>
+
+  <text x="465" y="146" font-family="'Fira Code', monospace" font-size="14" fill="#a5b4fc">TESTING &amp; QUALITY</text>
+  <text x="465" y="170" font-family="'Fira Code', monospace" font-size="12.5" fill="#e6edf3">UNIT TO E2E, SHIP CONFIDENT</text>
+
+  <text x="24" y="194" font-family="'Fira Code', monospace" font-size="12" fill="#484f58">$ keywords</text>
+  <text x="876" y="194" text-anchor="end" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">full-stack &#183; system design &#183; ai apps &#183; dx &#183; ci/cd</text>
+</svg>

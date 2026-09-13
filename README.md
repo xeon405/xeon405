@@ -1,40 +1,46 @@
-<p align="center">
+<div align="center">
   <img src="assets/banner.svg" alt="xeon — full-stack developer" width="100%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=8B949E&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%C2%B7+Python;From+idea+to+production" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/xeon405">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:xeon405@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open_to_opportunities-3FB950?style=flat-square&logo=statuspage&logoColor=white" />
-</p>
+## 01 · Profile
 
-## About
+**Full-stack developer** building clean, scalable, and reliable products — from well-crafted
+TypeScript frontends to dependable Python services, databases, and CI/CD.
 
-Full-stack developer focused on building **clean, scalable, and reliable products** — shipped
-end-to-end. I care about engineering quality and intentional design, and I take ownership of
-everything from a polished TypeScript frontend to the Python service, database, and CI/CD behind it.
+- **Open to:** full-time · freelance · remote · contract
+- **Focus:** web applications · AI-assisted products · developer experience
+- **Based:** remote-first
 
-- Full-stack ownership — design to deployment, frontend to database
-- Modern, typed code — TypeScript frontend, Python services, clean SQL
-- Product-minded — build with users in mind, iterate from real feedback
-- Own the shipping process — Docker, GitHub Actions, Vercel
-- Always leveling up — system design, scaling patterns, and AI integrations
+I take ownership of the whole journey — design to deployment — and I care about the details most
+people skip: type safety, testing, performance, and accessibility.
 
-## Experience & Skills
+---
 
-<p align="center">
-  <img src="assets/skills.svg" alt="Expertise" width="100%" />
-</p>
+## 02 · Expertise
 
-## Tech Stack
+<div align="center">
+  <img src="assets/skills.svg" alt="Experience and proficiency" width="100%" />
+</div>
+
+## 03 · Stack
+
+| Languages | Frontend | Backend |
+| --- | --- | --- |
+| Python · TypeScript · JavaScript · Go · C · C++ · Bash | React · Next.js · Tailwind CSS · Redux · Framer Motion · Vite · HTML · CSS | Node.js · Express · FastAPI · Django · GraphQL · WebSockets · Bun · npm |
+
+| Data | AI & ML | Testing |
+| --- | --- | --- |
+| PostgreSQL · MySQL · MongoDB · Redis · SQLite · Prisma · Supabase · Firebase | OpenAI · LangChain · Ollama · PyTorch · TensorFlow · Hugging Face · scikit-learn · NumPy · Pandas | Vitest · Jest · Playwright · ESLint · Prettier |
+
+| Cloud & DevOps | Tools |
+| --- | --- |
+| Docker · Kubernetes · Nginx · GitHub Actions · Vercel · Netlify · AWS · Azure · Cloudflare · Linux | Git · GitHub · Markdown · VS Code · Postman · Figma · Notion · Slack · Jira |
+
+> Detailed badge view below.
+
+<div align="center">
 
 | Frontend | Backend | Data |
 | --- | --- | --- |
@@ -48,47 +54,46 @@ everything from a polished TypeScript frontend to the Python service, database, 
 | --- | --- |
 | <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" /><br/><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /><br/><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /><br/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /><br/><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" /><br/><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /><br/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /><br/><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> |
 
-## GitHub
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xeon405&theme=github-dark-blue&hide_border=true" />
-  <img src="assets/profile-card.svg" />
-</p>
+---
 
-## Currently
+## 04 · Currently
 
-<p align="center">
+<div align="center">
   <img src="assets/now.svg" />
   <img src="assets/learning.svg" />
-</p>
+</div>
 
-## Focus Areas
+## 05 · Focus
 
-<p align="center">
+<div align="center">
   <img src="assets/focus.svg" alt="Focus areas" width="100%" />
-</p>
+</div>
 
-## Roadmap
+## 06 · Roadmap
 
-<p align="center">
+<div align="center">
   <img src="assets/roadmap.svg" alt="Roadmap" width="100%" />
-</p>
+</div>
 
-## Get in Touch
+---
 
-I'm always interested in great products, interesting problems, and strong teams. Open to
+## 07 · GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=xeon405&theme=github-dark-blue&hide_border=true" />
+  <img src="assets/profile-card.svg" />
+</div>
+
+---
+
+## 08 · Contact
+
+I'm always interested in strong teams, interesting problems, and ambitious products. Open to
 **full-time** and **freelance** opportunities.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--time-24292f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Freelance-24292f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Remote-24292f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Contract-24292f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Junior_full--stack-24292f?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_applications-24292f?style=flat-square" />
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/xeon405">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -96,4 +101,4 @@ I'm always interested in great products, interesting problems, and strong teams.
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open_to_opportunities-3FB950?style=flat-square&logo=statuspage&logoColor=white" />
-</p>
+</div>

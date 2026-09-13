@@ -14,7 +14,7 @@
   <rect width="900" height="220" fill="url(#glow)"/>
 
   <text x="40" y="45" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">~/xeon</text>
-  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">v2.0.0</text>
+  <text x="860" y="45" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#484f58">status: building</text>
 
   <text x="450" y="112" text-anchor="middle" font-family="'Fira Code', monospace" font-size="58" font-weight="700" fill="url(#title)" letter-spacing="6">XEON</text>
   <text x="450" y="152" text-anchor="middle" font-family="'Fira Code', monospace" font-size="15" fill="#8b949e" letter-spacing="2">FULL-STACK DEVELOPER · TYPESCRIPT · PYTHON</text>
